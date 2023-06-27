@@ -1,3 +1,6 @@
+* TODO Naver/Daum Dictionary Interface for Emacs
+posframe 으로 연동
+
 * Youdao Dictionary interface for Emacs
 
 [[http://melpa.org/#/youdao-dictionary][file:http://melpa.org/packages/youdao-dictionary-badge.svg]]
@@ -7,7 +10,7 @@
 
 ** Installation
 
-Install =youdao-dictionary= from [[http://melpa.org/][MELPA]] with: 
+Install =youdao-dictionary= from [[http://melpa.org/][MELPA]] with:
 
 =M-x package-install RET youdao-dictionary RET=
 
